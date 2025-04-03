@@ -13,10 +13,11 @@ function getSaaSData() {
             }
         }
 
-        console.log(names); // Log the names to the console
+        console.log(names); 
     });
 }
 
 getSaaSData();
+
 
 
